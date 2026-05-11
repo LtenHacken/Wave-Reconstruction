@@ -1,24 +1,5 @@
 EnKF_LWT_Aperiodic.ipynb
 EnKF_LWT_long_term.ipynb
 
-*.npy
-
-*\trial_1\*
-*\trial_2.npy
-*\trial_3.npy
-*\trial_4.npy
-*\trial_5.npy
-*\trial_6.npy
-*\trial_7.npy
-*\trial_8.npy
-*\trial_9.npy
-*\trial_10.npy
-*\trial_11.npy
-*\trial_12.npy
-*\trial_13.npy
-*\trial_14.npy
-*\trial_15.npy
-*\trial_16.npy
-*\trial_17.npy
-*\trial_18.npy
-*\trial_19.npy
+# *.npy
+*\trial*
